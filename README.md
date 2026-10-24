@@ -12,3 +12,4 @@ In CUDA programming, you're always working with two separate computing environme
 
 - MLP: Multi Layer Perceptron. Neural network with an input layer, one or several hidden layers and an output layer. The 'hello, world' of neural networks
 - MNIST: Modified National Institute of Standards and Technoloy. Refers to the normalized dataset with 70000 handwritten digits 0-9
+
